@@ -1,1 +1,2 @@
-# myfirstphpapp Which does literally nothing except refresh every 10 seconds.
+# myfirstphpapp 
+It does literally nothing except refresh every 5 seconds.
